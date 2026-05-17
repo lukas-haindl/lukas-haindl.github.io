@@ -536,8 +536,8 @@
 
     <section id="about">
       <div class="section-head">
-        <h2>Gebaut in Graz. Gemacht für Teams mit Tempo.</h2>
-        <p>FlowForge Labs GmbH ist ein fiktives Start-up aus Graz mit 12 Mitarbeitenden in Entwicklung, Design, Support und Vertrieb.</p>
+        <h2>Gebaut in Wien. Gemacht für Teams mit Tempo.</h2>
+        <p>FlowForge Studio ist ein fiktives Start-up aus Wien. Inhaber ist Lukas Haindl. Das Unternehmen entwickelt eine Softwarelösung für kleine Teams, die wiederkehrende Büroprozesse einfacher automatisieren möchten.</p>
       </div>
       <div class="grid-3">
         <article class="card">
@@ -746,15 +746,42 @@
       </div>
     </section>
 
-    <section id="impressum">
-      <div class="section-head">
-        <h2>Impressum</h2>
-      </div>
-      <div class="legal-box">
-        <p>FlowForge Studio GmBH<br>Mariahilfer Straße 88a<br>1070 Wien, Österreich</p>
-        <p>E-Mail: office@flowforge.example<br>Telefon: +43 316 000000</p>
-      </div>
-    </section>
+<section id="impressum">
+  <div class="section-head">
+    <h2>Impressum</h2>
+  </div>
+  <div class="legal-box">
+    <h3>Medieninhaber und Betreiber der Website</h3>
+    <p>
+      FlowForge Studio<br>
+      Inhaber: Lukas Haindl<br>
+      Mariahilfer Straße 88a<br>
+      1070 Wien<br>
+      Österreich
+    </p>
+
+    <h3>Kontakt</h3>
+    <p>
+      E-Mail: office@flowforge.example<br>
+      Telefon: +43 1 234 56 78
+    </p>
+
+    <h3>Unternehmensgegenstand</h3>
+    <p>
+      Entwicklung und Vertrieb von Softwarelösungen, insbesondere Workflow-Software für kleine Unternehmen und Start-ups.
+    </p>
+
+    <h3>Blattlinie</h3>
+    <p>
+      Diese Website informiert über das fiktive Softwareprodukt FlowForge Studio, Preise, Lizenzbedingungen, Kontaktmöglichkeiten und rechtliche Hinweise.
+    </p>
+
+    <h3>Hinweis</h3>
+    <p>
+      Diese Website wurde im Rahmen einer schulischen Übung erstellt. Es handelt sich um keinen echten Webshop.
+    </p>
+  </div>
+</section>
   </main>
 
   <div class="cart" aria-live="polite">
