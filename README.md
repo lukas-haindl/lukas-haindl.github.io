@@ -644,8 +644,8 @@
           <p id="contactStatus" class="notice" hidden></p>
         </form>
         <div class="card">
-          <h3>FlowForge Labs GmbH</h3>
-          <p>Musterstraße 12<br>8010 Graz<br>Österreich</p>
+          <h3>FlowForge Studio GmBH</h3>
+          <p>Mariahilfer Straße 88a<br>1070 Wien<br>Österreich</p>
           <p>E-Mail: hello@flowforge.example<br>Telefon: +43 316 000000</p>
           <p>Supportzeiten: Montag bis Freitag, 09:00–17:00 Uhr.</p>
         </div>
@@ -662,7 +662,7 @@
         <h3>Verantwortlicher</h3>
         <p>Verantwortlich für diese Website ist:</p>
         <p><strong>Lukas Haindl</strong><br>
-        FlowForge Studio<br>
+        FlowForge Studio GmBH<br>
         Mariahilfer Straße 88a<br>
         1070 Wien<br>
         Österreich</p>
@@ -749,10 +749,9 @@
     <section id="impressum">
       <div class="section-head">
         <h2>Impressum</h2>
-        <p>Platzhalterbereich: Hier kannst du dein eigenes Impressum einsetzen.</p>
       </div>
       <div class="legal-box">
-        <p>FlowForge Labs GmbH<br>Musterstraße 12<br>8010 Graz, Österreich</p>
+        <p>FlowForge Studio GmBH<br>Mariahilfer Straße 88a<br>1070 Wien, Österreich</p>
         <p>E-Mail: office@flowforge.example<br>Telefon: +43 316 000000</p>
       </div>
     </section>
